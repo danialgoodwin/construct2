@@ -17,6 +17,7 @@ You can open all of these with the free version of
 
 - HowToCreateTimer
 - HowToDetectDesktopOrMobile
+- HowToDetectMisClicks
 - HowToUseWin8WebStorage
 
 
@@ -27,3 +28,4 @@ Most of the edits for FlappyFishes can be found at the top of `GlobalLevel` even
 ## License ##
 Do whatever you like, as long as the name is changed. (Which you can find at the top of `GlobalCommon` event sheets.)
 
+All the images assets included are in the public domain.
